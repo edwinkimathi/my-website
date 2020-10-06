@@ -1,0 +1,21 @@
+
+.copyrightp{
+    color: aliceblue;
+    align-content: center;
+    background-color: black;
+    align-content: center;
+}
+
+.caro{
+    height: 300px auto;
+    width: 300px auto;
+} 
+
+
+.text-input{
+    background-color:bisque;
+    padding: 1pt;
+    width: max-content;
+    margin: 2pt;
+
+}
